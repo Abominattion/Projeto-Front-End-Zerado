@@ -1,0 +1,21 @@
+@import url(boot.css);
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+@media screen and (max-width: 1280px) {
+
+}
+
+@media screen and (max-width: 992px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+@media screen and (max-width: 400px) {
+
+}
